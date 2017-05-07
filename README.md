@@ -1,5 +1,8 @@
 # EscapeFromHell
-A web Flash old school 2D cinmeatic platformer adventure.
+
+##### A web Flash old school 2D cinmeatic platformer adventure.
+
+![escape_from_hell](http://portfolio.visualstudioex3.com/wp-content/uploads/2011/11/efh04.png)
 
 ##### Development date/period: 
 * November-December 2011
