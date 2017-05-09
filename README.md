@@ -1,4 +1,5 @@
-# Escape From Hell (© Undead Code Studios 2011)
+# Escape From Hell 
+© Undead Code Studios 2011
 
 ##### A web Flash old school 2D cinmeatic platformer adventure.
 
